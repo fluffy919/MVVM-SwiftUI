@@ -15,5 +15,5 @@ Swift 5.1+
 
 See other architectures as well
 
-- Flux: https://github.com/mobileANDweb/Flux-SwiftUI
-- Redux: https://github.com/mobileANDweb/Redux-SwiftUI
+- Flux: https://github.com/fluffy919/Flux-SwiftUI
+- Redux: https://github.com/fluffy919/Redux-SwiftUI
